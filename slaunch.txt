@@ -1,0 +1,2 @@
+Image start	No. of Images	Red thres	Rotations	File number	Max x pixel	Bottom y pixel	   Min x pixel	    Min y pixel
+6879		90		40		1		32		700		2324		   200		    1000
